@@ -1,4 +1,3 @@
-accumulate_relation
 left_key,left_value,right_key,right_value,count,pri_left,pri_right,is_prime_left,is_prime_right
 phone,phone_0,email,email_0,26,6,5,FALSE,FALSE
 phone,phone_0,device,device_0,38,6,6,FALSE,FALSE
